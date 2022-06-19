@@ -1,1 +1,0 @@
-const junsang = () => console.log('junsang');
