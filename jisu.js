@@ -1,1 +1,0 @@
-const jisu = () => console.log('지수')
