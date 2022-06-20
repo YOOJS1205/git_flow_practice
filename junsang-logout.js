@@ -1,0 +1,1 @@
+const Logout = () => console.log('Logout');
